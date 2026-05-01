@@ -97,15 +97,6 @@ streamlit run aero_app.py
 - Code hosted on GitHub
 - Continuous Integration using GitHub Actions
 
----
-
-## 📁 Project Structure
-project/
-│
-├── aero_app.py
-├── LICENSE
-├── README.md
-
 
 ---
 
