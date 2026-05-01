@@ -72,3 +72,70 @@ Cd = 0.01 + Cl² / (πAR e)
 ## 🚀 How to Run the Project
 
 1. Clone the repository:
+it clone https://github.com/tammana-saisrinivas/Aerodynamic-Analysis-Tool.git
+
+
+2. Navigate to the project folder:
+
+cd Aerodynamic-Analysis-Tool
+
+
+3. Install dependencies:
+
+pip install -r requirements.txt
+
+
+4. Run the application:
+streamlit run aero_app.py
+
+
+---
+
+## 🔄 DevOps Implementation
+
+- Version Control using Git
+- Code hosted on GitHub
+- Continuous Integration using GitHub Actions
+
+---
+
+## 📁 Project Structure
+project/
+│
+├── aero_app.py
+├── LICENSE
+├── README.md
+
+
+---
+
+## ⚠️ Limitations
+
+- Uses simplified aerodynamic models
+- Not a replacement for CFD tools
+- Limited real-world accuracy
+
+---
+
+## 🚀 Future Enhancements
+
+- Integration with real airfoil datasets
+- Advanced aerodynamic simulations
+- Cloud deployment
+- Enhanced CI/CD pipeline
+
+---
+
+## 👨‍💻 Team Members
+
+- T. Sai Srinivas (24951A2138)
+- Sathya Gayathry Pippala (24951A2145)
+- Ch. Shalini (24951A2147)
+
+---
+
+## 📌 Conclusion
+
+This project demonstrates the integration of aerodynamic analysis with DevOps practices, providing a modular, interactive, and scalable system.
+
+
